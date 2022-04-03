@@ -1,0 +1,92 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+
+background: #F4F4F4;}
+.wrapper{
+
+width: 80%;margin: auto;}
+.wrapper h2{
+
+text-align: center;margin: 100px 0;font-size: 40px;font-weight: 400;}
+.main_content{
+
+display: flex;background: #fff;border-radius: 10px;}
+.from{
+
+width: 50%;padding: 20px;}
+.from h1{
+
+font-size: 35px;font-weight: 400;margin: 30px 0;}
+.from p{
+
+color:  #666666;}
+.information{
+
+display: flex;justify-content: space-between;margin: 20px 0;}
+.information p{
+
+
+}
+.information h3{
+
+    
+color: #00000033;margin-bottom: 10px;}
+.address{
+
+}
+.address h3{
+
+}
+.address p{
+
+}
+
+.email{
+
+}
+.email h3{
+
+}
+.email p{
+    
+}
+
+
+.phone{
+
+}
+.phone h3{
+
+}
+.phone p{
+    
+    
+}
+.images{
+
+width: 50%;}
+.images img{
+
+width: 100%;}
+form{
+
+
+}
+form input{
+
+
+
+border: none;width: 100%;border-bottom: 1px solid #666;padding: 5px 0;margin-bottom: 20px;font-size: 17px;}
+form textarea{
+    
+border: none;border-bottom: 1px solid #666;width: 100%;font-size: 17px;}
+form input:focus{
+    outline: none;
+    border-color: #F4F4F4;
+}
+form input[type=`submit`]{
+    background-color:#D99C22;
+}
